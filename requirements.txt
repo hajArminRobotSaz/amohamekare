@@ -1,0 +1,14 @@
+python-telegram-bot==21.6
+qrcode[pil]
+Pillow
+python-barcode
+python-docx
+PyPDF2
+reportlab
+httpx
+instaloader
+arabic-reshaper
+python-bidi
+edge-tts
+pypdf
+ffmpeg
